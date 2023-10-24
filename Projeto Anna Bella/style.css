@@ -1,0 +1,37 @@
+body{
+    background-image: url(imagens/fundo.png);
+    background-color: antiquewhite;
+}
+#principal{
+    width: 900px;
+}
+nav{
+    background-color: #D4D3BE;
+    border: 1.5em solid #D4D3BE;
+}
+
+a{
+    text-decoration: none;
+    color: #75757B;
+    font-weight: 700;
+    text-transform: uppercase;
+    padding: 0.2em;
+}
+
+#info{
+    background-color: white;
+    padding: 1em;
+}
+h1{
+    color: #989687;
+    font-size: 1.5em;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#info>img{
+    border: 1em solid #D2D1B9;
+}
+footer>h1{
+    text-align: center;
+    color: rgb(82, 82, 82);
+    font-size: 1em;
+}
