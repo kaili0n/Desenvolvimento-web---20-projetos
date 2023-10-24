@@ -1,10 +1,7 @@
-<!DOCTYPE html>
-<html lang="pt-br">
- 
  # Desenvolvimento web - 20 Projetos
 
 <div align="center">
-<img src="./.github/meta-homepage.png"        width="100%" />   
+<img src="Banner.png" width="100%" />   
  
 </div> 
  
@@ -20,4 +17,3 @@ O <a  href="https://www.udemy.com/course/web-completo/"> Desenvolvimento Web Com
 - <a href="https://github.com/kaili0n/Desenvolvimento-web---20-projetos/tree/main/Projeto%20Final%20HTML">Projeto final HTML</a>
 
 - <a href="https://github.com/kaili0n/Desenvolvimento-web---20-projetos/tree/main/Projeto%20Anna%20Bella"> Projeto Anna Bella</a>
-</html>
