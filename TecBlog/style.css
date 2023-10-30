@@ -1,0 +1,86 @@
+body{
+    background-color: #f6f6f6;
+    margin: 0;
+}
+nav{
+    background-color: #FFC300;
+    text-align: center;
+    padding: 0.5em;
+}
+h1{
+    font-size: 2.2em;
+}
+.branco{
+    color: white;
+}
+nav>a{
+    display: inline-block;
+    padding: 1em;
+    text-decoration: none;
+    color: white;
+}
+nav>a:hover{
+    color: #FFC300;
+    background-color: white;
+}
+#postagem{
+    display: inline-block;
+    padding: 1em;
+    background-color: white;
+    margin-left: 14em;
+    margin-top: 1em;
+    width: 640px;
+}
+#postagem>h2{
+    color: #FDC423;
+    margin: 0;
+}
+
+#recentes{
+    position: absolute;
+    left: 58em;
+    top: 11.3em;
+    background-color: white;
+    width: 16em;
+    padding: 1em;
+}
+#recentes>h2{
+    margin: 0;
+    background-color: #DEDADE;
+    color: #535767;
+    padding: 0.2em;
+}
+#recentes>p{
+    margin: 0.5em 0;
+}
+#recentes>a{
+    text-decoration: none;
+    color: #FDC423;
+}
+#categorias{
+    position: absolute;
+    left: 58em;
+    top: 26.3em;
+    background-color: white;
+    width: 16em;
+    padding: 1em;
+}
+#categorias>h2{
+    margin: 0;
+    background-color: #DEDADE;
+    color: #535767;
+    padding: 0.2em;
+}
+#categorias>a{
+    display: block;
+    text-decoration: none;
+    color: #FDC423;
+}
+
+footer{
+    background-color: #bebdc1;
+    text-align: center;
+    padding: 1px;
+    display: block;
+    margin: 1em 14em;
+}
